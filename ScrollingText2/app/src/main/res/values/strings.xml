@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scrolling Text 2</string>
+    <string name="article_title"><b>Article Title</b></string>
+    <string name="article_subtitle"><b>Article Subtitle</b></string>
+    <string name="article_text">
+        <i>Sub-heading:\n\n</i>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus rhoncus ex consectetur finibus. Aliquam vel consequat sapien. Mauris volutpat, diam vitae laoreet tempus, tellus leo laoreet diam, sit amet consectetur ipsum nulla ac leo. Nullam consectetur, justo ac tempus faucibus, metus lorem consequat nulla, at facilisis orci quam nec eros. Vestibulum nibh nisi, tempor a feugiat ultrices, ultricies quis lacus. Nullam a ante scelerisque, molestie turpis nec, imperdiet lorem. Duis bibendum neque eleifend, feugiat dui nec, vehicula diam. Sed porttitor tincidunt risus, non interdum nibh.
+Proin ac imperdiet risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet sed lorem eget vulputate. In hac habitasse platea dictumst. Maecenas vitae nisl nec felis commodo bibendum. Proin convallis venenatis facilisis. Nam eleifend facilisis sem, in dignissim enim tempor porttitor. Morbi sed volutpat justo. Proin efficitur euismod metus. Aliquam suscipit tortor quis mi convallis, eu blandit dolor bibendum. Etiam ornare rhoncus mi et elementum. www.google.com\n\n
+
+        <b>Sub-heading:\n\n</b>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus rhoncus ex consectetur finibus. Aliquam vel consequat sapien. Mauris volutpat, diam vitae laoreet tempus, tellus leo laoreet diam, sit amet consectetur ipsum nulla ac leo. Nullam consectetur, justo ac tempus faucibus, metus lorem consequat nulla, at facilisis orci quam nec eros. Vestibulum nibh nisi, tempor a feugiat ultrices, ultricies quis lacus. Nullam a ante scelerisque, molestie turpis nec, imperdiet lorem. Duis bibendum neque eleifend, feugiat dui nec, vehicula diam. Sed porttitor tincidunt risus, non interdum nibh.
+Proin ac imperdiet risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet sed lorem eget vulputate. In hac habitasse platea dictumst. Maecenas vitae nisl nec felis commodo bibendum. Proin convallis venenatis facilisis. Nam eleifend facilisis sem, in dignissim enim tempor porttitor. Morbi sed volutpat justo. Proin efficitur euismod metus. Aliquam suscipit tortor quis mi convallis, eu blandit dolor bibendum. Etiam ornare rhoncus mi et elementum.</string>
+    <string name="button_add_comment">Add Comment</string>
+</resources>
